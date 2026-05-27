@@ -1,0 +1,44 @@
+# Compilados Java
+*.class
+
+# Logs
+*.log
+
+# Relatórios de Testes e Build (Maven)
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+test-output/
+surefire-reports/
+
+# Arquivos empacotados
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Configurações da IDE IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Configurações da IDE Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Configurações da IDE VS Code
+.vscode/
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
